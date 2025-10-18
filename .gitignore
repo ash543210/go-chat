@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+.env
+
+# Go coverage
+*.out
+
+# Logs
+*.log
+
+# Build directories
+bin/

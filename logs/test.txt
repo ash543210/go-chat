@@ -1,0 +1,59 @@
+[DEBUG] 2025-08-29 17:22:17 - Logger initialized.
+[DEBUG] 2025-08-29 17:32:37 - Logger initialized.
+[DEBUG] 2025-08-29 17:32:57 - Logger initialized.
+[DEBUG] 2025-08-29 17:35:37 - Logger initialized.
+[DEBUG] 2025-08-29 17:38:48 - Logger initialized.
+[DEBUG] 2025-08-29 17:46:49 - Logger initialized.
+[DEBUG] 2025-08-29 17:47:22 - Logger initialized.
+[DEBUG] 2025-08-29 17:49:20 - Logger initialized.
+[DEBUG] 2025-08-29 17:50:29 - Logger initialized.
+[DEBUG] 2025-08-29 17:53:22 - Logger initialized.
+[DEBUG] 2025-08-29 17:57:03 - Logger initialized.
+[DEBUG] 2025-08-29 17:59:30 - Logger initialized.
+[DEBUG] 2025-08-29 18:00:00 - Logger initialized.
+[DEBUG] 2025-08-29 20:03:45 - Logger initialized.
+[DEBUG] 2025-08-29 20:04:58 - Logger initialized.
+[DEBUG] 2025-09-01 20:08:14 - Logger initialized.
+[ERROR] 2025-09-01 20:08:14 - Server failed to start: listen tcp :8080: bind: address already in use
+[DEBUG] 2025-09-01 20:10:16 - Logger initialized.
+[INFO ] 2025-09-01 20:10:20 - Creating user:%!(EXTRA string=)
+[INFO ] 2025-09-01 20:10:20 - Creating user:%!(EXTRA string=)
+[INFO ] 2025-09-01 20:11:35 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-01 20:11:35 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-01 20:11:44 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-01 20:11:44 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[DEBUG] 2025-09-01 20:14:07 - Logger initialized.
+[INFO ] 2025-09-01 20:14:11 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-01 20:14:11 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-01 20:16:50 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-01 20:16:50 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[DEBUG] 2025-09-01 20:17:58 - Logger initialized.
+[INFO ] 2025-09-01 20:18:11 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-01 20:18:11 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-01 20:18:21 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-01 20:18:21 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[DEBUG] 2025-09-01 20:19:26 - Logger initialized.
+[INFO ] 2025-09-01 20:19:30 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-01 20:19:30 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[DEBUG] 2025-09-01 20:20:01 - Logger initialized.
+[INFO ] 2025-09-01 20:20:06 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[DEBUG] 2025-09-01 20:21:11 - Logger initialized.
+[INFO ] 2025-09-01 20:21:12 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[DEBUG] 2025-09-02 19:25:19 - Logger initialized.
+[INFO ] 2025-09-02 19:25:33 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-02 19:25:34 [trace_id=bc57e897-edb2-4ec5-b27f-de35bd81709e] - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-02 19:27:00 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-02 19:27:00 [trace_id=6c0ed9b2-01c9-4e4c-868b-f039d2ffadb2] - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[DEBUG] 2025-09-02 19:28:43 - Logger initialized.
+[INFO ] 2025-09-02 19:28:45 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-02 19:28:46 [trace_id=fd5fe458-8294-4cd9-be8a-4b11caf146ef] - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-02 19:50:42 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-02 19:50:43 [trace_id=2ddc989c-c746-49f9-ad55-54247ada6bac] - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[DEBUG] 2025-09-02 20:01:07 - Logger initialized.
+[INFO ] 2025-09-02 20:01:15 - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-02 20:01:16 [trace_id=29e4e4b5-a9a7-478a-b6b2-83785a5806df] - Creating user:%!(EXTRA string=shaikashraf54321@gmail.com)
+[INFO ] 2025-09-02 20:01:16 [trace_id=29e4e4b5-a9a7-478a-b6b2-83785a5806df] - Refresh token saved for user:%!(EXTRA string=68b6ffb4e42228df3e668472)
+[DEBUG] 2025-09-05 20:32:35 - Logger initialized.
+[INFO ] 2025-09-05 20:33:28 - Creating user: shaikashraf54321@gmail.com
+[INFO ] 2025-09-05 20:33:29 [trace_id=677c58f0-f722-49ba-8bff-b1aa4c5b4831] - Creating user: shaikashraf54321@gmail.com
+[INFO ] 2025-09-05 20:33:29 [trace_id=677c58f0-f722-49ba-8bff-b1aa4c5b4831] - Refresh token saved for user: 68bafbc1f657697da6299f6e
